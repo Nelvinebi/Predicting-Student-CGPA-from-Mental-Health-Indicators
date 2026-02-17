@@ -94,9 +94,11 @@ Exploring ecological response functions and habitat suitability patterns.
 
 Author
 
-Developed by [Name: Agbozu Ebingiye Nelvin
-              Github: https://github.com/Nelvinebi
-              LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
+[Name: Agbozu Ebingiye Nelvin
+
+ Github: https://github.com/Nelvinebi
+ 
+ LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
 ]
 
 License
