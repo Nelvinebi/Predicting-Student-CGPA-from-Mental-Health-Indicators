@@ -96,6 +96,7 @@ Author
 
 Developed by [Name: Agbozu Ebingiye Nelvin
               Github: https://github.com/Nelvinebi
+              LinkedIn: *https://www.linkedin.com/in/agbozu-ebi/
 ]
 
 License
