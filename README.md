@@ -1,4 +1,4 @@
-# 🧠 MindGrade — Predicting Student CGPA from Mental Health Indicators
+# Predicting Student CGPA from Mental Health Indicators
 
 <div align="center">
 
@@ -391,7 +391,7 @@ scipy>=1.9.0
 
 ## 👤 Author
 
-**Name:** [Your Name Here]
+**Name:** Agbozo Ebingiye Nelvin
 
 🎓 Data Scientist | Machine Learning | Mental Health Analytics
 📍 Nigeria
