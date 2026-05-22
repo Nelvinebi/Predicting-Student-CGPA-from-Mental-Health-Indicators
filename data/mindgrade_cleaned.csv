@@ -1,0 +1,102 @@
+gender,age,course,year_of_study,cgpa,marital_status,depression,anxiety,panic_attack,sought_treatment,cgpa_label,mh_burden_score
+Female,18.0,Engineering,1,3.00 - 3.49,0,1,0,1,0,3,2
+Male,21.0,Islamic Studies,2,3.00 - 3.49,0,0,1,0,0,3,1
+Male,19.0,Computing & IT,1,3.00 - 3.49,0,1,1,1,0,3,3
+Female,22.0,Social Sciences,3,3.00 - 3.49,1,1,0,0,0,3,1
+Male,23.0,Sciences,4,3.00 - 3.49,0,0,0,0,0,3,0
+Male,19.0,Engineering,2,3.50 - 4.00,0,0,0,1,0,4,1
+Female,23.0,Islamic Studies,2,3.50 - 4.00,1,1,0,1,0,4,2
+Female,18.0,Computing & IT,1,3.50 - 4.00,0,0,1,0,0,4,1
+Female,19.0,Social Sciences,2,2.50 - 2.99,0,0,0,0,0,2,0
+Male,18.0,Islamic Studies,1,3.50 - 4.00,0,0,1,1,0,4,2
+Female,20.0,Social Sciences,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,24.0,Engineering,3,3.50 - 4.00,1,1,0,0,0,4,1
+Female,18.0,Computing & IT,1,3.00 - 3.49,0,1,0,0,0,3,1
+Male,19.0,Engineering,1,3.00 - 3.49,0,0,0,0,0,3,0
+Female,18.0,Islamic Studies,2,3.50 - 4.00,0,0,1,0,0,4,1
+Male,24.0,Computing & IT,3,3.50 - 4.00,0,0,0,0,0,4,0
+Female,24.0,Business & Economics,3,3.00 - 3.49,0,0,0,0,0,3,0
+Female,24.0,Engineering,4,3.00 - 3.49,1,1,1,1,0,3,3
+Female,20.0,Computing & IT,2,3.50 - 4.00,0,0,1,0,0,4,1
+Female,18.0,Life Sciences,2,3.50 - 4.00,1,1,1,1,0,4,3
+Female,19.0,Engineering,1,3.00 - 3.49,0,0,0,1,0,3,1
+Female,18.0,Islamic Studies,2,3.00 - 3.49,0,0,0,0,0,3,0
+Female,24.0,Computing & IT,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,24.0,Engineering,1,3.00 - 3.49,0,0,0,0,0,3,0
+Female,23.0,Computing & IT,3,3.50 - 4.00,0,1,1,1,0,4,3
+Female,18.0,Business & Economics,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,19.0,Engineering,1,3.50 - 4.00,0,0,0,0,0,4,0
+Male,18.0,Engineering,2,3.00 - 3.49,1,1,1,0,0,3,2
+Female,24.0,Computing & IT,3,3.50 - 4.00,1,1,1,1,1,4,3
+Female,24.0,Computing & IT,4,3.50 - 4.00,0,0,0,0,0,4,0
+Female,23.0,Business & Economics,2,3.00 - 3.49,0,0,0,0,0,3,0
+Male,18.0,Computing & IT,2,3.00 - 3.49,0,0,0,0,0,3,0
+Male,19.0,Computing & IT,1,3.50 - 4.00,0,0,0,1,0,4,1
+Male,18.0,Computing & IT,2,3.50 - 4.00,1,1,1,0,1,4,2
+Female,19.0,Computing & IT,1,3.00 - 3.49,0,1,1,1,0,3,3
+Female,18.0,Engineering,1,2.00 - 2.49,0,0,0,0,0,1,0
+Female,18.0,Social Sciences,3,3.00 - 3.49,0,1,1,0,0,3,2
+Female,19.0,Computing & IT,1,2.50 - 2.99,0,1,1,1,0,2,3
+Female,18.0,Islamic Studies,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,24.0,Engineering,2,2.50 - 2.99,1,1,0,1,1,2,2
+Female,24.0,Computing & IT,3,3.00 - 3.49,0,0,1,0,0,3,1
+Female,22.0,Engineering,4,3.50 - 4.00,0,0,0,0,0,4,0
+Female,20.0,Islamic Studies,2,3.00 - 3.49,0,1,0,0,0,3,1
+Male,19.0,Computing & IT,1,0 - 1.99,0,0,0,0,0,0,0
+Male,23.0,Social Sciences,2,3.50 - 4.00,0,0,0,1,0,4,1
+Male,18.0,Computing & IT,1,3.50 - 4.00,0,0,1,1,0,4,2
+Female,19.0,Engineering,1,3.50 - 4.00,0,0,1,0,0,4,1
+Female,18.0,Engineering,4,3.50 - 4.00,0,0,0,0,0,4,0
+Male,24.0,Computing & IT,2,3.00 - 3.49,0,1,0,0,0,3,1
+Female,24.0,Computing & IT,3,3.50 - 4.00,0,0,0,1,0,4,1
+Female,23.0,Social Sciences,1,2.50 - 2.99,1,1,0,1,1,2,2
+Female,18.0,Computing & IT,2,3.50 - 4.00,0,0,1,0,0,4,1
+Female,19.0,Life Sciences,3,3.00 - 3.49,0,0,0,0,0,3,0
+Female,20.0,Islamic Studies,3,3.00 - 3.49,1,1,1,1,0,3,3
+Female,19.0,Computing & IT,1,3.50 - 4.00,0,1,0,1,1,4,2
+Male,21.0,Computing & IT,1,3.00 - 3.49,0,0,0,0,0,3,0
+Male,23.0,Islamic Studies,3,3.50 - 4.00,0,0,0,0,0,4,0
+Female,20.0,Social Sciences,3,3.00 - 3.49,0,1,1,0,0,3,2
+Female,18.0,Computing & IT,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,23.0,Social Sciences,1,3.00 - 3.49,0,0,0,0,0,3,0
+Female,18.0,Computing & IT,3,3.00 - 3.49,0,0,0,1,0,3,1
+Female,19.0,Computing & IT,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,18.0,Computing & IT,1,3.50 - 4.00,0,0,0,1,0,4,1
+Female,24.0,Engineering,1,3.50 - 4.00,0,0,0,1,0,4,1
+Female,24.0,Engineering,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,23.0,Business & Economics,1,3.50 - 4.00,0,1,1,0,0,4,2
+Female,18.0,Islamic Studies,3,3.00 - 3.49,0,0,1,0,0,3,1
+Male,19.0,Islamic Studies,3,3.00 - 3.49,1,1,0,1,0,3,2
+Female,18.0,Islamic Studies,1,3.50 - 4.00,0,1,0,0,0,4,1
+Female,24.0,Islamic Studies,4,3.00 - 3.49,0,0,1,0,0,3,1
+Female,24.0,Life Sciences,1,3.00 - 3.49,0,0,0,0,0,3,0
+Female,18.0,Social Sciences,3,3.50 - 4.00,0,0,0,1,0,4,1
+Female,19.0,Computing & IT,3,3.00 - 3.49,1,1,0,0,0,3,1
+Male,18.0,Life Sciences,1,0 - 1.99,0,0,0,0,0,0,0
+Male,24.0,Computing & IT,3,3.50 - 4.00,0,0,1,0,0,4,1
+Female,24.0,Islamic Studies,1,3.50 - 4.00,0,0,1,1,0,4,2
+Female,23.0,Engineering,1,3.00 - 3.49,0,1,0,0,0,3,1
+Female,18.0,Social Sciences,2,3.00 - 3.49,0,0,0,1,0,3,1
+Female,19.0,Life Sciences,3,0 - 1.99,0,0,0,0,0,0,0
+Female,18.0,Engineering,4,3.50 - 4.00,0,0,0,0,0,4,0
+Female,24.0,Social Sciences,2,3.50 - 4.00,1,1,1,1,0,4,3
+Female,24.0,Life Sciences,2,3.50 - 4.00,0,0,0,0,0,4,0
+Female,19.0,Engineering,1,3.00 - 3.49,0,1,1,0,0,3,2
+Female,19.0,Islamic Studies,2,3.00 - 3.49,0,0,0,0,0,3,0
+Male,23.0,Life Sciences,1,3.00 - 3.49,0,0,0,0,0,3,0
+Female,18.0,Social Sciences,1,3.50 - 4.00,0,1,1,0,1,4,2
+Female,19.0,Islamic Studies,3,3.00 - 3.49,0,0,0,0,0,3,0
+Female,18.0,Social Sciences,1,3.50 - 4.00,0,1,1,1,0,4,3
+Male,24.0,Computing & IT,1,3.00 - 3.49,0,0,1,0,0,3,1
+Male,24.0,Engineering,2,2.00 - 2.49,0,0,0,1,0,1,1
+Female,23.0,Social Sciences,3,3.50 - 4.00,0,0,0,1,0,4,1
+Male,18.0,Islamic Studies,2,3.00 - 3.49,0,0,1,0,0,3,1
+Female,19.0,Islamic Studies,2,3.00 - 3.49,1,1,0,0,0,3,1
+Female,18.0,Social Sciences,1,3.00 - 3.49,0,1,0,0,0,3,1
+Female,24.0,Islamic Studies,3,0 - 1.99,0,0,0,1,0,0,1
+Female,18.0,Islamic Studies,1,3.50 - 4.00,0,0,0,0,0,4,0
+Female,21.0,Computing & IT,1,3.50 - 4.00,0,0,1,0,0,4,1
+Male,18.0,Engineering,2,3.00 - 3.49,0,1,1,0,0,3,2
+Female,19.0,Life Sciences,3,3.50 - 4.00,1,1,0,1,0,4,2
+Female,23.0,Islamic Studies,4,3.50 - 4.00,0,0,0,0,0,4,0
+Male,20.0,Life Sciences,2,3.00 - 3.49,0,0,0,0,0,3,0
