@@ -19,9 +19,9 @@
 
 ## 📌 Problem
 
-Student mental health is a growing concern in higher education worldwide. Depression, anxiety, and panic attacks are increasingly prevalent among university students, yet their quantifiable impact on academic performance remains underexplored — particularly in Southeast Asian academic contexts where self-reporting stigma and limited access to counselling services compound the problem.
+Student mental health is a growing concern in higher education worldwide. Depression, anxiety, and panic attacks are increasingly prevalent among university students, yet their quantifiable impact on academic performance remains underexplored particularly in Southeast Asian academic contexts where self-reporting stigma and limited access to counselling services compound the problem.
 
-At the International Islamic University Malaysia (IIUM), a 2020 survey of 101 students revealed that approximately 1 in 3 students reported each of the three major mental health conditions, yet only **6% sought specialist treatment** — a treatment gap that urgently demands institutional attention.
+At the International Islamic University Malaysia (IIUM), a 2020 survey of 101 students revealed that approximately 1 in 3 students reported each of the three major mental health conditions, yet only **6% sought specialist treatment**  a treatment gap that urgently demands institutional attention.
 
 There is a critical need for a **reproducible, transparent, and interpretable machine learning pipeline** that quantifies the relationship between mental health burden and CGPA, identifies the most influential predictive features, and delivers insights that can inform university welfare policy and early intervention strategies.
 
@@ -396,9 +396,9 @@ scipy>=1.9.0
 🎓 Data Scientist | Machine Learning | Mental Health Analytics
 📍 Nigeria
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-181717?style=flat-square&logo=github)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-your%40email.com-D14836?style=flat-square&logo=gmail)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/agbozu-ebi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Nelvinebi-181717?style=flat-square&logo=github)](https://github.com/Nelvinebi)
+[![Email](https://img.shields.io/badge/Email-nelvinebingiye%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:nelvinebingiye@gmail.com)
 
 </div>
 
