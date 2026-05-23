@@ -1,0 +1,5 @@
+Model,Accuracy,Macro F1,Weighted F1,ROC-AUC
+Logistic Regression,0.4286,0.38,0.4524,n/a
+Random Forest,0.3333,0.3295,0.3379,n/a
+XGBoost,0.381,0.2568,0.3744,n/a
+SVM,0.1429,0.1394,0.1111,n/a
