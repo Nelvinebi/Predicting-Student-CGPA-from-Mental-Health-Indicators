@@ -1,0 +1,5 @@
+Feature,Chi2,p-value,dof,Result
+depression,8.9975,0.0612,4,✗ Not significant
+anxiety,3.5243,0.4742,4,✗ Not significant
+panic_attack,7.3752,0.1173,4,✗ Not significant
+mh_burden_score,8.7773,0.7218,12,✗ Not significant
