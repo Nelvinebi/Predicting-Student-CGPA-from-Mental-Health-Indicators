@@ -1,4 +1,4 @@
-# Predicting Student CGPA from Mental Health Indicators
+# 🧠 MindGrade — Predicting Student CGPA from Mental Health Indicators
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-> A complete **machine learning pipeline** that processes survey data from 101 university students at the International Islamic University Malaysia (IIUM) to examine the relationship between student mental health conditions (depression, anxiety, panic attacks) and academic CGPA — training, comparing, and explaining four classifiers with SHAP-based interpretability and a full PDF research report.
+> A complete **machine learning pipeline** that processes survey data from 101 university students at the International Islamic University Malaysia (IIUM) to examine the relationship between student mental health conditions (depression, anxiety, panic attacks) and academic CGPA training, comparing, and explaining four classifiers with SHAP-based interpretability and a full PDF research report.
 
 </div>
 
@@ -21,7 +21,7 @@
 
 Student mental health is a growing concern in higher education worldwide. Depression, anxiety, and panic attacks are increasingly prevalent among university students, yet their quantifiable impact on academic performance remains underexplored particularly in Southeast Asian academic contexts where self-reporting stigma and limited access to counselling services compound the problem.
 
-At the International Islamic University Malaysia (IIUM), a 2020 survey of 101 students revealed that approximately 1 in 3 students reported each of the three major mental health conditions, yet only **6% sought specialist treatment**  a treatment gap that urgently demands institutional attention.
+At the International Islamic University Malaysia (IIUM), a 2020 survey of 101 students revealed that approximately 1 in 3 students reported each of the three major mental health conditions, yet only **6% sought specialist treatment** a treatment gap that urgently demands institutional attention.
 
 There is a critical need for a **reproducible, transparent, and interpretable machine learning pipeline** that quantifies the relationship between mental health burden and CGPA, identifies the most influential predictive features, and delivers insights that can inform university welfare policy and early intervention strategies.
 
@@ -71,7 +71,7 @@ The data was collected via **Google Forms** from students at IIUM (International
 | `sought_treatment` | Binary | Sought specialist help (1/0) |
 | `mh_burden_score` | Numeric | Engineered: depression + anxiety + panic_attack (0–3) |
 | `cgpa` | Categorical | CGPA band label (target — string) |
-| `cgpa_label` | Ordinal | CGPA band ordinal encoding (target — integer 0–4) |
+| `cgpa_label` | Ordinal | CGPA band ordinal encoding (target integer 0–4) |
 
 ### CGPA Band Distribution
 
@@ -149,40 +149,68 @@ The data was collected via **Google Forms** from students at IIUM (International
 ### 🔹 CGPA Band Distribution
 > 90% of respondents fall in the 3.00–4.00 GPA range — a highly skewed distribution that creates class imbalance and motivates SMOTE oversampling in the modelling phase
 
+![CGPA Band Distribution](outputs/figures/01_cgpa_distribution.png)
+
 ---
 
 ### 🔹 Mental Health Condition Prevalence
 > Approximately 1 in 3 students reports each condition (depression: 35%, anxiety: 34%, panic attack: 33%), yet only 6% sought specialist treatment — the most striking finding in the dataset
+
+![Mental Health Condition Prevalence](outputs/figures/03_mh_prevalence.png)
 
 ---
 
 ### 🔹 Mental Health Burden Score Distribution
 > 37 students report no conditions, 36 report exactly one, 18 report two, and 10 report all three — showing significant co-occurrence of mental health conditions rather than isolated cases
 
+![Mental Health Burden Score](outputs/figures/04_mh_burden_score.png)
+
 ---
 
 ### 🔹 Depression / Anxiety / Panic Attack vs CGPA
 > Side-by-side count and proportion charts for each condition across CGPA bands — shows that the 3.50–4.00 band has the highest absolute count of affected students (driven by its dominance in the sample), but proportional differences are modest given sample constraints
+
+![Depression vs CGPA](outputs/figures/05_depression_vs_cgpa.png)
+![Anxiety vs CGPA](outputs/figures/05_anxiety_vs_cgpa.png)
+![Panic Attack vs CGPA](outputs/figures/05_panic_attack_vs_cgpa.png)
 
 ---
 
 ### 🔹 Course Group vs CGPA Heatmap
 > Computing & IT (30 students) and Engineering (21) dominate the sample; Islamic Studies (21) shows the most distributed CGPA spread; all other faculties are too small for reliable inference
 
+![Course Group vs CGPA Heatmap](outputs/figures/08_course_vs_cgpa_heatmap.png)
+
 ---
 
 ### 🔹 Feature Correlation Heatmap
 > Lower triangular correlation matrix across all numeric features; depression, anxiety, and panic_attack are positively correlated with each other (r ≈ 0.3–0.5) confirming co-occurrence, while correlations with cgpa_label are weak (r < 0.1)
+
+![Feature Correlation Heatmap](outputs/figures/09_correlation_heatmap.png)
 
 ---
 
 ### 🔹 Model Performance Comparison
 > Logistic Regression leads with Weighted F1 = 0.45 and Accuracy = 42.9%; SVM performs poorest (Weighted F1 = 0.11). All models underperform against a 5-class random baseline of 20% — driven by near-zero test samples in classes 0 and 1, not model failure
 
+![Model Performance Comparison](outputs/figures/11_model_comparison.png)
+
+---
+
+### 🔹 Confusion Matrices
+> Per-model confusion matrices showing predicted vs actual CGPA bands across all four classifiers
+
+![Confusion Matrix — Logistic Regression](outputs/figures/10_confusion_logistic_regression.png)
+![Confusion Matrix — Random Forest](outputs/figures/10_confusion_random_forest.png)
+![Confusion Matrix — XGBoost](outputs/figures/10_confusion_xgboost.png)
+![Confusion Matrix — SVM](outputs/figures/10_confusion_svm.png)
+
 ---
 
 ### 🔹 SHAP Feature Importance — Logistic Regression
 > Stacked horizontal bar chart showing mean absolute SHAP value per feature per CGPA class; year_of_study, age, and mh_burden_score emerge as the strongest predictors; binary MH flags have lower individual impact than the composite score
+
+![SHAP Feature Importance](outputs/figures/12_shap_feature_importance.png)
 
 > 📌 *All visualisations are saved at high resolution in `/outputs/figures/`.*
 
@@ -391,7 +419,7 @@ scipy>=1.9.0
 
 ## 👤 Author
 
-**Name:** Agbozo Ebingiye Nelvin
+**Name:** Agbozu Ebingiye Nelvin
 
 🎓 Data Scientist | Machine Learning | Mental Health Analytics
 📍 Nigeria
@@ -406,7 +434,7 @@ scipy>=1.9.0
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — free to use, adapt, and build upon for research, education, and student welfare analytics.
+This project is licensed under the **MIT License** free to use, adapt, and build upon for research, education, and student welfare analytics.
 See the [LICENSE](LICENSE) file for full details.
 
 ---
