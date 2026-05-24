@@ -1,4 +1,4 @@
-# 🧠 MindGrade — Predicting Student CGPA from Mental Health Indicators
+# 🧠 MindGrade - Predicting Student CGPA from Mental Health Indicators
 
 <div align="center">
 
@@ -456,6 +456,6 @@ See the [LICENSE](LICENSE) file for full details.
 
 *Part of a broader portfolio of data science and machine learning projects focused on education analytics and student welfare.*
 
-🔗 [View All Projects](https://github.com/your-username?tab=repositories) · [Connect on LinkedIn](https://www.linkedin.com/in/your-profile/)
+🔗 [View All Projects](https://github.com/Nelvinebi) · [Connect on LinkedIn](https://www.linkedin.com/in/agbozu-ebi/)
 
 </div>
