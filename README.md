@@ -448,11 +448,11 @@ See the [LICENSE](LICENSE) file for full details.
 
 ## 🙌 Acknowledgements
 
-- **Shariful Islam** — for collecting and publishing the IIUM Student Mental Health survey dataset on Kaggle, making this research possible
-- **International Islamic University Malaysia (IIUM)** — whose students participated in the original Google Forms survey
-- **Scikit-learn & XGBoost** communities — for the open-source machine learning frameworks powering the modelling pipeline
-- **SHAP (Lundberg & Lee, 2017)** — for the unified framework for interpretable machine learning that drives the feature importance analysis
-- **imbalanced-learn** — for the SMOTE implementation that enables training on severely imbalanced CGPA class distributions
+- **Shariful Islam** for collecting and publishing the IIUM Student Mental Health survey dataset on Kaggle, making this research possible
+- **International Islamic University Malaysia (IIUM)** whose students participated in the original Google Forms survey
+- **Scikit-learn & XGBoost** communities for the open-source machine learning frameworks powering the modelling pipeline
+- **SHAP (Lundberg & Lee, 2017)** for the unified framework for interpretable machine learning that drives the feature importance analysis
+- **imbalanced-learn** for the SMOTE implementation that enables training on severely imbalanced CGPA class distributions
 - Research on student mental health in Malaysian higher education informed by published work from the **Malaysian Journal of Psychiatry** and **IIUM academic welfare studies**
 
 ---
