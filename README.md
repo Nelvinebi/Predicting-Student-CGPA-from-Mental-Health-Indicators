@@ -104,14 +104,14 @@ The data was collected via **Google Forms** from students at IIUM (International
 ## 🛠️ Tools & Technologies
 
 - **Language:** Python 3.9+
-- **Machine Learning:** Scikit-learn — Logistic Regression, Random Forest, SVM; XGBoost
-- **Imbalanced Learning:** imbalanced-learn — SMOTE oversampling
-- **Explainability:** SHAP — LinearExplainer, feature importance visualisation
+- **Machine Learning:** Scikit-learn (Logistic Regression, Random Forest, SVM; XGBoost)
+- **Imbalanced Learning:** imbalanced-learn (SMOTE oversampling)
+- **Explainability:** SHAP (LinearExplainer, feature importance visualisation)
 - **Data Processing:** Pandas, NumPy
 - **Visualisation:** Matplotlib, Seaborn
-- **Statistical Testing:** SciPy — chi2_contingency
-- **Model Persistence:** Joblib — .pkl model serialisation
-- **Reporting:** ReportLab — programmatic PDF generation
+- **Statistical Testing:** SciPy (chi2_contingency)
+- **Model Persistence:** Joblib (.pkl model serialisation)
+- **Reporting:** ReportLab (programmatic PDF generation)
 
 ---
 
