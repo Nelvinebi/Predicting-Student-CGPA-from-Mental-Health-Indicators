@@ -331,7 +331,7 @@ The data was collected via **Google Forms** from students at IIUM (International
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/MindGrade.git
+git clone https://github.com/Nelvinebi/MindGrade.git
 cd MindGrade
 
 # 2. Install dependencies
