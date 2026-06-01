@@ -341,22 +341,22 @@ pip install -r requirements.txt
 ### Run Each Phase in Order
 
 ```bash
-# Phase 1 — Clean the raw dataset
+# Phase 1: Clean the raw dataset
 python src/phase1_data_cleaning.py
 
-# Phase 2 — Exploratory data analysis & chi-square tests
+# Phase 2: Exploratory data analysis & chi-square tests
 python src/phase2_eda.py
 
-# Phase 3 — Feature engineering & SMOTE
+# Phase 3: Feature engineering & SMOTE
 python src/phase3_feature_engineering.py
 
-# Phase 4 — Train & evaluate all four models
+# Phase 4: Train & evaluate all four models
 python src/phase4_modelling.py
 
 # Generate SHAP feature importance figure
 python src/generate_shap.py
 
-# Phase 5 — HTML report
+# Phase 5: HTML report
 python src/phase5_reporting.py
 
 # Generate PDF report
